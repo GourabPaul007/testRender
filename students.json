@@ -1,0 +1,104 @@
+{
+  "students": [
+    {
+      "roll": 1,
+      "name": "John Doe",
+      "address": "123 Main St"
+    },
+    {
+      "roll": 2,
+      "name": "Jane Smith",
+      "address": "456 Elm St"
+    },
+    {
+      "roll": 3,
+      "name": "Bob Johnson",
+      "address": "789 Oak St"
+    },
+    {
+      "roll": 4,
+      "name": "Alice Brown",
+      "address": "246 Maple Ave"
+    },
+    {
+      "roll": 5,
+      "name": "Charlie Green",
+      "address": "135 Pine St"
+    },
+    {
+      "roll": 6,
+      "name": "David Lee",
+      "address": "579 Cedar Rd"
+    },
+    {
+      "roll": 7,
+      "name": "Emily Davis",
+      "address": "864 Birch Blvd"
+    },
+    {
+      "roll": 8,
+      "name": "Frank Wilson",
+      "address": "975 Oak St"
+    },
+    {
+      "roll": 9,
+      "name": "Grace Taylor",
+      "address": "246 Elm St"
+    },
+    {
+      "roll": 10,
+      "name": "Henry Martin",
+      "address": "357 Main St"
+    },
+    {
+      "roll": 11,
+      "name": "Isabella Garcia",
+      "address": "468 Oak St"
+    },
+    {
+      "roll": 12,
+      "name": "Jack Hernandez",
+      "address": "579 Elm St"
+    },
+    {
+      "roll": 13,
+      "name": "Katherine Martinez",
+      "address": "681 Main St"
+    },
+    {
+      "roll": 14,
+      "name": "Liam Perez",
+      "address": "792 Oak St"
+    },
+    {
+      "roll": 15,
+      "name": "Mia Rodriguez",
+      "address": "893 Elm St"
+    },
+    {
+      "roll": 16,
+      "name": "Noah Sanchez",
+      "address": "914 Main St"
+    },
+    {
+      "roll": 17,
+      "name": "Olivia Torres",
+      "address": "835 Oak St"
+    },
+    {
+      "roll": 18,
+      "name": "Penelope Flores",
+      "address": "756 Elm St"
+    },
+    {
+      "roll": 19,
+      "name": "Quinn Adams",
+      "address": "687 Main St"
+    },
+    {
+      "roll": 20,
+      "name": "Ryan Cooper",
+      "address": "518 Oak St"
+    }
+  ]
+}
